@@ -10,6 +10,6 @@
 
 ## Command to run the code
 
-### python RemoveBg.py --mask-rcnn mask-rcnn-coco --image sample.jpeg
+###### python RemoveBg.py --mask-rcnn mask-rcnn-coco --image sample.jpeg
 
 
